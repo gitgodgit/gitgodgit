@@ -1,29 +1,10 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
-## 🧠 3D Contribution Graph
-![](https://github.com/gitgodgit/gitgodgit/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
-
----
-
-## 🐍 Snake Eating My Contributions
-![](https://github.com/gitgodgit/gitgodgit/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🚀 Animated Skill Progress
+## 🚀 Skill Progress
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,aws,docker,kubernetes,linux,react,java,go,rust&perline=5" />
 </p>
 
----
-
-## 📊 Auto-Updating Coding Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gitgodgit&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitgodgit&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ###
 
