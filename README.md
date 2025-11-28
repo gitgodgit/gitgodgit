@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
-
+<h1 align="center">Hi 👋, I'm Noe Mindilaia</h1>
+<h3 align="center">A passionate python developer from Georgia</h3>
 ## 🚀 Skill Progress
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,aws,docker,kubernetes,linux,react,java,go,rust&perline=5" />
@@ -49,10 +49,6 @@
 
 ###
 
-
-
-<h1 align="center">Hi 👋, I'm Noe Mindilaia</h1>
-<h3 align="center">A passionate python developer from Georgia</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=gitgodgit&label=Profile%20views&color=0e75b6&style=flat" alt="gitgodgit" />
